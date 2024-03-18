@@ -1,19 +1,44 @@
-# First Assignment
+# First Assignment - Rodrigo Samayoa
 
 ## Optimizations
 
-### index
-
 - Add lazy to images
 - Add defer to not main scripts
-- Add prefetch to link's tag
+- Add prefetch to link tag
+- Get jquery from CDN
 
-### cart
+### index.js
 
-### checkout
+##### Before
 
-### contact
+##### After
 
-### detail
+### detail.js
 
-### shop
+##### Before
+
+##### After
+
+### cart.js
+
+##### Before
+
+##### After
+
+### checkout.js
+
+##### Before
+
+##### After
+
+### contact.js
+
+##### Before
+
+##### After
+
+### shop.js
+
+##### Before
+
+##### After
